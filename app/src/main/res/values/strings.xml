@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="MenuA">Activar Menu</string>
+    <string name="MenuO">Menu Opcional</string>
+    <string name="MenuC">Menu Contextual</string>
+    <string name="MenuP">Menu PopUp</string>
+    <string name="Menus">Menu</string>
+
+
+    <string name="IrMenuC">Ir al Menu Contextual</string>
+    <string name="IrMenuO">Ir al Menu de Opciones</string>
+    <string name="IrMenuP">Ir al Menu PopUp</string>
+    <string name="VoMenuPr">Volver al Menu Principal</string>
+    <string name="Salir">Salir</string>
+
+
+</resources>

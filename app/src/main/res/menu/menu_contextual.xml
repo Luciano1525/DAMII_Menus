@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/MO2"
+        android:title="@string/IrMenuO"
+        android:tooltipText="Menu de Opciones"
+        />
+    <item
+        android:id="@+id/MOP2"
+        android:title="@string/IrMenuP"
+        android:tooltipText="Menu PopUp"
+        />
+    <item
+        android:id="@+id/MOVP2"
+        android:title="@string/VoMenuPr"
+        android:tooltipText="Menu Principal"
+        />
+    <item
+        android:id="@+id/MOS2"
+        android:title="@string/Salir"
+        android:tooltipText="Salir"
+        />
+
+</menu>
